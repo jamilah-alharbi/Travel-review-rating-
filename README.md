@@ -1,14 +1,15 @@
 # Travel-review-rating-
 Importance of Travel Reviews for Travel-Related Decisions Travel review readers perceive reviews posted by other consumers as having several advantages over information from travel service providers.this project explores dimensions of satisfying  experiences on a travel sharing website and offers insight for understanding the factors evaluation of travel experiences at a destination. My goal to divide users in different clusters, which would help us to recommend them different types of advertisment 
-Who benefits from exploring this question or building this model/system?
+
+#Who benefits from exploring this question or building this model/system?
 
 The analysis based on ratings and reviews provide tremendous value to merchants to provide services and advertisments correctly. it provide businesses with valuable market and help them better understand the opinions and needs of the tourists. 
 
-What dataset(s) do you plan to use, and how will you obtain the data?
+#What dataset(s) do you plan to use, and how will you obtain the data?
 
 Tarvel Review Ratings dataset ,I obtained it from Kaggle website. This data set is populated by capturing user ratings from Google reviews. Reviews on attractions from 24 categories across Europe are considered. Google user rating ranges from 1 to 5 and average user rating per category is calculated.
 
-What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
+#What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 
 My dataset contains more then 5000 instances and 25 features 
 Attribute 1 : Unique user id
@@ -39,17 +40,16 @@ Attribute 25 : Average ratings on gardens
 
 In this project I will use all features in the dataset based on clustering algorithm to figure out how is the people visit certain places
 
-If modeling, what will you predict as your target?
+#If modeling, what will you predict as your target?
 
 This dataset describes how users rate their estimates ,my  job is to learn how to separate them. This is important because it will allow us to work more efficiently with our users , based on clusters, we can offer people services more specifically and personalized.
 
 
-How do you intend to meet the tools requirement of the project?
+#How do you intend to meet the tools requirement of the project?
 
 My tools are anaconda environment using python, The required libraries 
 Pandas, sklearn, matplotlib and seaborn 
 
-Are you planning in advance to need or use additional tools beyond those required?
+#Are you planning in advance to need or use additional tools beyond those required?
 
 Maybe I tend to use turicreate library 
-![image](https://user-images.githubusercontent.com/78117752/137376342-abae5acf-dd45-4721-a67e-ad5c456413d8.png)
